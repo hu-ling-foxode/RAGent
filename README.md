@@ -8,8 +8,6 @@ An open-source Discord bot, created using LlamaIndex, that -
 - Continuously learns from them
 - Answers your questions from the entire server.
 
-https://github.com/rsrohan99/llamabot/assets/62835870/eaab6db1-8f79-4e3a-aaf0-c132b966d9f6
-
 It’s recommended to host this bot yourself for your server, but if you wanna try out first, you can join this discord server and use RAGent through this link: https://discord.gg/sSkfGQHWk2
 
 Tech stack used for this bot:
